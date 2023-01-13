@@ -9,9 +9,6 @@
                                          </p>
                                            Release the free version. You use it at your own risk.
                                            </p>
-                                           
-                                           
-                                           
                                            <p align="center">
                                              <img src="https://img.shields.io/github/languages/top/Slackes/Rust-External?style=flat-square"/>
                                                <img src="https://img.shields.io/github/last-commit/Slackes/Rust-External?style=flat-square"/>
